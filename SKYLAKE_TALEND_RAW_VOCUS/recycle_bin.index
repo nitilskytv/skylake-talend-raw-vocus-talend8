@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2021-08-29T19:37:21.426+1200">
+  <deletedFolders>process/TESTING_JOBS</deletedFolders>
+  <deletedFolders>process/BB_MASTER</deletedFolders>
+  <deletedFolders>process/test/lfc</deletedFolders>
+  <deletedFolders>process/VOCUS_CALLBACKS</deletedFolders>
+  <deletedItems id="_gRjTMIbBEeuTM9PcOOSd-A" path="" type="PROCESS"/>
+  <deletedItems id="_c43IMK4VEeuE_rpORLQgQw" path="VOCUS_CALLBACKS" type="PROCESS"/>
+</recyclebin:RecycleBin>

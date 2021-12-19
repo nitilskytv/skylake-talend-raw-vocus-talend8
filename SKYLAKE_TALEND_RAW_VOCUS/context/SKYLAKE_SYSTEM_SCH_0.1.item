@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_wPD1sIemEeuI5ZZUR1IF9w" xmi:version="2.0">
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_loginTimeout" prompt="SKYLAKE_SYSTEM_SCH_loginTimeout?" promptNeeded="false" type="id_Integer" value="" xmi:id="_wPD1sYemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_account" prompt="SKYLAKE_SYSTEM_SCH_account?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1soemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_schemaName" prompt="SKYLAKE_SYSTEM_SCH_schemaName?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1s4emEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_role" prompt="SKYLAKE_SYSTEM_SCH_role?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1tIemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_userPassword_userId" prompt="SKYLAKE_SYSTEM_SCH_userPassword_userId?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1tYemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_db" prompt="SKYLAKE_SYSTEM_SCH_db?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1toemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_customRegionID" prompt="SKYLAKE_SYSTEM_SCH_customRegionID?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1t4emEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_warehouse" prompt="SKYLAKE_SYSTEM_SCH_warehouse?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1uIemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_userPassword_password" prompt="SKYLAKE_SYSTEM_SCH_userPassword_password?" promptNeeded="false" type="id_Password" value="" xmi:id="_wPD1uYemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_region" prompt="SKYLAKE_SYSTEM_SCH_region?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1uoemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_jdbcParameters" prompt="SKYLAKE_SYSTEM_SCH_jdbcParameters?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1u4emEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_keyAlias" prompt="SKYLAKE_SYSTEM_SCH_keyAlias?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1vIemEeuI5ZZUR1IF9w"/>
+  <contextParameter comment="" name="SKYLAKE_SYSTEM_SCH_authenticationType" prompt="SKYLAKE_SYSTEM_SCH_authenticationType?" promptNeeded="false" type="id_String" value="" xmi:id="_wPD1vYemEeuI5ZZUR1IF9w"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_58bc6bcc-8c6b-4588-b112-c620e128212d"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>7AzsYsuhXQaMPsxsS6dpPENwutKTEoAKOI/HoJNiNa5AZ35Am3rnPUN5pPFYbsweNxtv7H2iqg8D
+ym8+/TPJZw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_cb2cd263-67e4-4016-bd2a-ef27f784c7cd"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>F5IuwNCoYp5W/Wx9cDvb3Xk/xVZc4+aJS1dBVyRI+AcCb1AE/0K4GKiAXl5VmdtYEBDiSaQMdXsz
+z0sCqRpiZQ==</DigestValue></Reference></SignedInfo><SignatureValue>jiQzmKQZWo2nvRjySBVC53jOFdRHTmk7Hvu5KqXGKPUiqyTwM9CPG5ywCEBeh2SRHJwNopF8AfPA
+srq//xeLChUOXpHbWBFuU/B2EglrceIBeRraGPcjXfeU3GwUuRKtLd/rT7ZCLLb5301T2lZAceFa
+jZALvgHexDYXAW7OxFPZbdpocqlUvH2bKXSXdf0G9OByFBJL7JdlRafKGXFUFneQpnwHqFbK/9WY
+ENJJE00fpjlo1UdmVPIpH3K0W8mQH8gTc+OSHm6TXg7Iec+/mlAWuMHtGi6yXl6bU1s+XOG94LA6
+OeGh0BA5l+9GxtK6jpc3nq4qbmH/5ZXSTPQRNQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_cb2cd263-67e4-4016-bd2a-ef27f784c7cd" Target="#_58bc6bcc-8c6b-4588-b112-c620e128212d"><Timestamp>2021-03-18 04:59:43</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>

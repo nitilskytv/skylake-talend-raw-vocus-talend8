@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_sZwpsYaWEeuTM9PcOOSd-A" label="skylake-talend-raw-vocus" language="java" technicalLabel="SKYLAKE_TALEND_RAW_VOCUS" author="_sZwpsoaWEeuTM9PcOOSd-A" productVersion="Talend Cloud Big Data Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/SkyWebT/skylake-talend-raw-vocus.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_szZRsIaWEeuTM9PcOOSd-A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_sZwpsoaWEeuTM9PcOOSd-A" login="nitil.chaudhary@sky.co.nz" firstName="Nitil" lastName="Chaudhary" type="DQ"/>
+  <TalendProperties:User xmi:id="_7PSTgIaWEeuTM9PcOOSd-A" login="lalit.gera@sky.co.nz" firstName="Lalit" lastName="Gera" type="DQ"/>
+  <TalendProperties:User xmi:id="_-hlVkIelEeuI5ZZUR1IF9w" login="kailash.bisht@sky.co.nz" firstName="Kailash" lastName="Bisht" type="DQ"/>
+  <TalendProperties:User xmi:id="_-hlVkYelEeuI5ZZUR1IF9w" login="garv.sharma@sky.co.nz" firstName="Garv" lastName="Sharma" type="DQ"/>
+  <TalendProperties:User xmi:id="_M6On0O28Eeum5cpXOFbn1Q" login="siri.motepalli@sky.co.nz" firstName="Siri" lastName="Motepalli" type="DQ"/>
+</xmi:XMI>
